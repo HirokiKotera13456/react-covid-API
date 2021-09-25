@@ -83,8 +83,6 @@ h1 {
     width: 400px;
     height: 27px;
     padding: 0.5rem 1rem;
-    appearance:none;
-    color: #fff;
     background: linear-gradient(250.6deg, #6A70FF 7.3%, rgba(255, 53, 53, 0.4) 98.63%);
 }
 
