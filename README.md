@@ -7,7 +7,7 @@
 コロナの情報を習得するために、世界のコロナ情報が載っているAPIを利用しております。
 
 ## 環境
-OS: windows
-IDE : VisualStudioCode
-言語 :JavaScript
-JSライブラリ : React
+- OS: windows
+- IDE : VisualStudioCode
+- 言語 :JavaScript
+- JSライブラリ : React
