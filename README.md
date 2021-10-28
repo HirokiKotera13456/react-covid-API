@@ -1,7 +1,7 @@
 # CovidTracker
 
 世界中のコロナの情報を取得するアプリケーションです。
-（アプリケーションURL:https://cocky-volhard-6950f2.netlify.app/)
+（アプリケーションURL:https://covid-app12345.netlify.app/)
 
 ## アプリケーションについて
 コロナの情報を習得するために、世界のコロナ情報が載っているAPIを利用しております。
