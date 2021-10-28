@@ -94,6 +94,7 @@ h1 {
 
 .selector-container > button {
     width: 98px;
+    height: 27px;
     border-radius: 0 40px 40px 0;
     background: #4473ff;
     border: none;

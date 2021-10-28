@@ -3,7 +3,7 @@ const Selector = (props) => {
       <div className="selector-container">
           <select onChange={(e) => props.setCountry(e.target.value)}>
               <option>国を選択してください</option>
-              {props.countriesJson.map((country, index) =>
+              {props.countriesJson.map((country, index) => 
                  <option key={index} value={country.Slug}>{country.Country}</option>
               )}
           </select>

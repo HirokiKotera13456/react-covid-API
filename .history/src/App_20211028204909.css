@@ -94,6 +94,7 @@ h1 {
 
 .selector-container > button {
     width: 98px;
+    height: 27px;
     border-radius: 0 40px 40px 0;
     background: #4473ff;
     border: none;
@@ -153,7 +154,7 @@ h1 {
 .world-page-container {
     height: 100%;
     padding: 4rem 3rem;
-    background: linear-gradient(250.6deg, #d5f5d4 7.3%, rgba(255, 53, 53, 0.4) 98.63%);
+    background: linear-gradient(250.6deg, #6A70FF 7.3%, rgba(255, 53, 53, 0.4) 98.63%);
     background-size: 300% 300%;
   /* 	animation: gradient 14s ease infinite; */
 }
